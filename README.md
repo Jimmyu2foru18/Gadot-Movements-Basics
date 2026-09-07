@@ -28,13 +28,13 @@ Follow these instructions to open and run the game on your local machine.
 **Step 1: Clone the repository**
 Open your terminal and pull the code to your local machine.
 ```bash
-git clone [https://github.com/Jimmyu2foru18/new-game-project.git](https://github.com/Jimmyu2foru18/new-game-project.git)
+git clone [https://github.com/Jimmyu2foru18/Gadot-Movements-Basics.git](https://github.com/Jimmyu2foru18/Gadot-Movements-Basics.git)
 ```
 
 **Step 2: Import the project**
 1. Open the Godot Project Manager.
 2. Click **Import**.
-3. Navigate to the cloned `new-game-project` folder.
+3. Navigate to the cloned `Gadot-Movements-Basics` folder.
 4. Select the `project.godot` file and click **Import & Edit**.
 
 **Step 3: Run the game**
