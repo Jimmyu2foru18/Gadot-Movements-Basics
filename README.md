@@ -28,7 +28,7 @@ Follow these instructions to open and run the game on your local machine.
 **Step 1: Clone the repository**
 Open your terminal and pull the code to your local machine.
 ```bash
-git clone [https://github.com/Jimmyu2foru18/Gadot-Movements-Basics.git](https://github.com/Jimmyu2foru18/Gadot-Movements-Basics.git)
+git clone https://github.com/Jimmyu2foru18/Gadot-Movements-Basics.git
 ```
 
 **Step 2: Import the project**
