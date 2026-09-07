@@ -1,4 +1,4 @@
-# Godot Mechanics Demo
+# Godot Mechanics
 
 ## About
 This is a Godot Engine project designed to demonstrate core gameplay mechanics. The project serves as a functional template showcasing character movement, jumping logic, attack actions, and scene transitions. 
